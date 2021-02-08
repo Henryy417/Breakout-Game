@@ -1,0 +1,34 @@
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.exe.config
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.exe
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.pdb
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csprojAssemblyReference.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form1.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Properties.Resources.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csproj.GenerateResource.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csproj.CoreCompileInputs.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.exe
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.pdb
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form2.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form3.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form4.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form5.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.exe.config
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.exe
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.pdb
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csprojAssemblyReference.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form1.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form2.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form3.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form4.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form5.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Properties.Resources.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csproj.GenerateResource.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.csproj.CoreCompileInputs.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.exe
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.pdb
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form6.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.exe.manifest
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\bin\Debug\breakout.application
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.Form6.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.exe.manifest
+C:\Users\hkct_\Desktop\Visual Studio Works\breakout\obj\Debug\breakout.application

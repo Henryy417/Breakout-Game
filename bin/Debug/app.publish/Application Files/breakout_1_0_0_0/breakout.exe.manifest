@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="breakout.exe" version="1.0.0.0" publicKeyToken="600ef64a922f4d2a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="breakout" version="1.5.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="breakout.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="breakout.exe" size="47040">
+      <assemblyIdentity name="breakout" version="1.5.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9D51ogjlTKDObp9UqnYMoJysrFPv1i/wTW0L46mE39U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="breakout.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=HENRYCHAN\admin" issuerKeyHash="691edb4217f365992b1e82ce8b32f0718b94b714" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>u1KKohrQqZ2IGS0bezo8LOJVQM9wUFT9c82dyzHiHtU=</DigestValue></Reference></SignedInfo><SignatureValue>EsRT0Z3UdU2xE8HgPhSy+v+GA5aka9Yqpp5Ba3YSKwkUN8bFM7kIT/AvPWUVrmG8usst/jMNBHZUOx+1y4CDgycG9AP+amHIAHwQMTFnCeHm+ApDCB+2nhVlH8Z5rXwJg8KukwlHDR2XznH8/Vic9ppFOs2SK/7wWIuIVgKxiqw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vNJbIGMxLSTkBMuTcRp/YUK6j8VOHWvX5Fhi6GOk6chNwBqYDGA9a2VvxgmMEDd8LYjlVNq1qOhgFMvxHO3iYX5iM3cJzebTlSSlH4S5dTv9UeCnznEc7vd4Q0Fdc+tObsyQ8v7khpOJe1UiYZaiRT7J6I7MaFwCWI1h15Bkb+E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d51ee231cb9dcd73fd545070cf4055e22c3c3a7b1b2d19889da9d01aa28a52bb" Description="" Url=""><as:assemblyIdentity name="breakout.exe" version="1.0.0.0" publicKeyToken="600ef64a922f4d2a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HENRYCHAN\admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>cg0xlxuXaIwuJEuBDvNeJBX6A7w6Uv2WcJ7kxXknjjI=</DigestValue></Reference></SignedInfo><SignatureValue>NG0Z4h4ZAiUzad3qK6P/MpCkRCKOI1pK7dNPt1Rf58qEUYkuWycv6Hlareqy1DV6I3zIaE4E5RYQdGJT5vG6Wl3yPFxBIOVfsFBOBWCLDZGQmJOLWq/6ZJ3nzYLxt4c5n9yJ9Vn5TOWM5DZfBoDI6hhojADA1xz6vBcstroRdZE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vNJbIGMxLSTkBMuTcRp/YUK6j8VOHWvX5Fhi6GOk6chNwBqYDGA9a2VvxgmMEDd8LYjlVNq1qOhgFMvxHO3iYX5iM3cJzebTlSSlH4S5dTv9UeCnznEc7vd4Q0Fdc+tObsyQ8v7khpOJe1UiYZaiRT7J6I7MaFwCWI1h15Bkb+E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQROVimJvBX7VHg9+3Xykz7TANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASABFAE4AUgBZAEMASABBAE4AXABhAGQAbQBpAG4wHhcNMjEwMTA0MDgzMTUzWhcNMjIwMTA0MTQzMTUzWjApMScwJQYDVQQDHh4ASABFAE4AUgBZAEMASABBAE4AXABhAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALzSWyBjMS0k5ATLk3Eaf2FCuo/FTh1r1+RYYuhjpOnITcAamAxgPWtlb8YJjBA3fC2I5VTatajoYBTL8Rzt4mF+YjN3Cc3m05UkpR+EuXU7/VHgp85xHO73eENBXXPrTm7MkPL+5IaTiXtVImGWokU+yeiOzGhcAliNYdeQZG/hAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAViwqJY1SCHZJsV0pZ0oz958J3kpjPRrxuQ8E5t9VtYjS7QBuwUt61xjsrpp3q3J4niA421/4ciU4tcdjwrCPklf0mkMA9E6chtzeuunuMMf4st0taXWrHYvFoc4+tIGho9G4b4E28uQGARvtYReelB8j/+M3JQ67JhQgASEWRr0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
